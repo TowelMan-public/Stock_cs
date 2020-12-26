@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "plans", "plans.csproj", "{A882E4ED-9E4B-4748-A94B-13AFB1285CCA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelAddIn3", "..\ExcelAddIn3\ExcelAddIn3.csproj", "{D97F6531-334B-41B7-BE94-AE54C10951A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A882E4ED-9E4B-4748-A94B-13AFB1285CCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A882E4ED-9E4B-4748-A94B-13AFB1285CCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A882E4ED-9E4B-4748-A94B-13AFB1285CCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A882E4ED-9E4B-4748-A94B-13AFB1285CCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D97F6531-334B-41B7-BE94-AE54C10951A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D97F6531-334B-41B7-BE94-AE54C10951A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D97F6531-334B-41B7-BE94-AE54C10951A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D97F6531-334B-41B7-BE94-AE54C10951A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E82AEA5-CB87-4B29-9B55-888515CA8DAC}
+	EndGlobalSection
+EndGlobal
